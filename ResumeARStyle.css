@@ -1,0 +1,32 @@
+.backgroud{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    background-color: #F1E9E7;
+    padding: 1.5em;
+}
+.frame{
+    width: 100%;
+    height: 100%;
+    background-color: #108983;
+    border-radius: 2em;
+    padding: 1.5em;
+}
+.titleAR{
+    font-size: 2em;
+    color: #ff3300;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+}
+.button{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 50px;
+    padding: 0;
+}
